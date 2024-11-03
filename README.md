@@ -1,1 +1,1 @@
-# Extract-meters-configuration
+# Extract meters information
